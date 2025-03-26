@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giteshmakwane&show_icons=true&locale=en" alt="giteshmakwane" /></p>
 
-<p><img align="center" src="https://githuhub-readme-streak-stats.herokuapp.com/?user=giteshmakwane&" alt="giteshmakwane" /></p>   please give short code and also provide backgroung image
+<p><img align="center" src="https://githuhub-readme-streak-stats.herokuapp.com/?user=giteshmakwane&" alt="giteshmakwane" /></p>  
