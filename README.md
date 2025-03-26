@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <h1 align="center">Hello Developers👋,I'm Gitesh</h1>
+<div>
 <h3 align="center">Welcome to my GitHub profile! I am a passionate MERN Stack Developer focused on creating dynamic, responsive, and scalable web applications. My expertise lies in working with MongoDB, Express.js, React, and Node.js to build full-stack applications from the ground up.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giteshmakwane&label=Profile%20views&color=0e75b6&style=flat" alt="giteshmakwane" /> </p>
-<div>
-📫 Feel free to reach me at *giteshmakwane2002@gmail.com* 
+📫 Feel free to reach me at **giteshmakwane2002@gmail.com** 
  </div>
 
 <h3 align="left">Connect with me:</h3>
